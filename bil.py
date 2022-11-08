@@ -48,4 +48,3 @@ class bil():
         if light < 1:
             self.light = 1
         self.distance_vision = self.realwvision * (self.light / 100)
-            
